@@ -1,0 +1,38 @@
+# Node
+node_modules/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment Files
+.env
+.env.local
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# Arduino
+*.ino.bin
+*.elf
+*.hex
+
+# Temporary
+tmp/
+temp/
+
+# Cache
+.cache/
